@@ -1,6 +1,6 @@
-# template-vite-vue-tailwind-v3
+# vue-vite-tailwind-sass-starter
 
-- **template of:** vite + vue
+- **template of:** vite + vue 
 - **tailwindcss:** v3.x
 
 ## Started
@@ -24,6 +24,3 @@ yarn build
 ```
 
 ---
-<p align="center">
-<img src="./powered-by-vitawind-bright.png">
-</p>
